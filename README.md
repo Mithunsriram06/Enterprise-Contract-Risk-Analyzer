@@ -1,13 +1,5 @@
 # Enterprise-Contract-Risk-Analyzer
 The Enterprise Contract Risk Analyzer is a production-ready LegalTech app that automates commercial contract reviews. Powered by Gemini 2.5 Flash, it instantly extracts key clauses, flags liabilities with severity scoring, and generates legally safe mitigations—all in a premium Streamlit UI secured by Supabase Auth and PostgreSQL
-  _____            _                  _      _____ _     _    
- / ____|          | |                | |    |  __ (_)   | |   
-| |     ___  _ __ | |_ _ __ __ _  ___| |_   | |__) | ___| | __
-| |    / _ \| '_ \| __| '__/ _` |/ __| __|  |  _  / |/ __| |/ /
-| |___| (_) | | | | |_| | | (_| | (__| |_   | | \ \ |\__ \   < 
- \_____\___/|_| |_|\__|_|  \__,_|\___|\__|  |_|  \_\_|___/_|\_\
-                        Analyzer & Auditor                      
-
 
 AI-Powered Legal Intelligence for Commercial Contracts
 
